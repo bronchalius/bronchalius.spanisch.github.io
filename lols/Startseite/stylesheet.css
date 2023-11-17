@@ -1,0 +1,73 @@
+.NavSidebar {
+    height: 663px;
+    width:9%;
+    background-color:white;
+    position: absolute;
+    top:0%;
+    left:0%;
+}
+
+.IconsNavBar {
+    height:40px;
+    width:40px;
+    position: relative;
+    top:50px;
+    margin-top: 20px;
+    text-decoration: none;
+    background-color: white;
+}
+
+.buttonNav {
+    background-color: white;
+    border:none;
+    width: 40px;
+}
+
+.main {
+    background-color: rgba(186, 185, 185, 0.893);
+    width:400px;
+    height: 663px;
+    position: absolute;
+    top:0%;
+    left:50px;
+}
+
+.Titel {
+    position: absolute;
+    left:100px;
+    top:4%;
+    color:darkcyan;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: larger;
+}
+
+.Oxe {
+    top:0px;
+    width: 400px;
+    height:663px;
+    background-size: cover;
+
+}
+
+.TitelVokab {
+    position: absolute;
+    left:100px;
+    top:4%;
+    color:white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: larger;
+}
+
+.IconVocabTop {
+    height:40px;
+    width:40px;
+    position: relative;
+    top:50px;
+    margin-top: 20px;
+    text-decoration: none;
+    background-color: white;
+    border-radius: 300px;
+    -moz-border-radius: 300px;
+    -webkit-border-radius: 300px
+}
+
